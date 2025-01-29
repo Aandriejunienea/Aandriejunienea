@@ -14,4 +14,4 @@ Hi there! I'm Akvilė, a seasoned Quality Assurance Engineer with 3 years of exp
 ## 📫 Let's Connect!
 
 I'm always open to collaborating on exciting projects and exchanging ideas with fellow QA professionals. Feel free to reach out!
-[https://www.linkedin.com/in/andriejunienea/]
+[LinkedIn](https://www.linkedin.com/in/andriejunienea/)
