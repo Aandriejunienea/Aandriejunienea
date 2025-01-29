@@ -1,15 +1,15 @@
 
 ## 👨‍💻 About Me
 
-Hi there! I'm [Your Name], a seasoned Quality Assurance Engineer with [X+] years of experience in ensuring the delivery of robust, high-quality software. My expertise spans both manual and automated testing, with a keen eye for detail and a passion for problem-solving.
+Hi there! I'm Akvilė, a seasoned Quality Assurance Engineer with 3 years of experience in ensuring the delivery of robust, high-quality software. My expertise spans both manual and automated testing, with a keen eye for detail and a passion for problem-solving.
 
 ## 🛠️ Skill Set
 
-* **Testing Methodologies:** Agile, Scrum, Waterfall, TDD, BDD
-* **Manual Testing:** Test planning, execution, defect tracking, exploratory testing
-* **Automation Expertise:** Selenium, Cypress, Appium, [Your Preferred Tools]
-* **Programming:** Java, Python, JavaScript
-* **Tools & Technologies:** TestRail, JMeter, Postman, Git, [Your Relevant Tools]
+* **Testing Methodologies:** Manual, Integration, Regression, Functional, Black Box, Grey Box, Agile, Scrum
+* **Manual Testing:** Test planning, creation,  execution, defect tracking, exploratory testing
+* **Automation Expertise:** Selenium, WebDriver, TestNG
+* **Programming:** Java
+* **Tools & Technologies:** ReadyAPI, Postman, Git, IntelliJ, Jira, AzureDevOps, MySQL
 
 ## 🚀 Recent Projects
 
