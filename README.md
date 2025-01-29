@@ -11,17 +11,7 @@ Hi there! I'm Akvilė, a seasoned Quality Assurance Engineer with 3 years of exp
 * **Programming:** Java
 * **Tools & Technologies:** ReadyAPI, Postman, Git, IntelliJ, Jira, AzureDevOps, MySQL
 
-## 🚀 Recent Projects
-
-* **[Project Name]:** [Brief description, highlighting your QA contributions]
-* **[Project Name]:** [Brief description, showcasing a different area of your expertise]
-
-## 📈 GitHub Stats
-
-[Your GitHub Stats Card]
-[Your Top Languages Card]
-
 ## 📫 Let's Connect!
 
 I'm always open to collaborating on exciting projects and exchanging ideas with fellow QA professionals. Feel free to reach out!
-[Your LinkedIn Badge] [Your Email Badge]
+[https://www.linkedin.com/in/andriejunienea/]
